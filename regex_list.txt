@@ -1,0 +1,4 @@
+.*index 
+.*?: index
+\S+\s+\S+\w+\s+:\S+:\s+index
+read_physical_netif: index
